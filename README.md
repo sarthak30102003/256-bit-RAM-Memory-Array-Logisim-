@@ -73,7 +73,7 @@ This project emulates memory block behavior at the gate level using flip-flops a
 
 ## 📸 Screenshot
 
-![256-bit RAM Memory - Logisim](./images/256bit_ram_screenshot.png)
+![256-bit RAM Memory - Logisim](256_memory_array/design_screenshot.png)
 
 ---
 
